@@ -41,10 +41,52 @@
                                              ID 1
                                         </td>
                                         <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
-                                            NAME USER
+                                            Bilbo Bolson
                                         </td>
                                         <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
-                                            EMAIL USER
+                                            bbolson@comarca.cat
+                                        </td>
+                                        <td class="relative whitespace-nowrap py-4 pl-3 pr-4 text-right text-sm font-medium sm:pr-6">
+                                            <a href="#" class="text-indigo-600 hover:text-indigo-900">Edit<span class="sr-only">, Cinta Zaragoza</span></a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6">
+                                            ID 2
+                                        </td>
+                                        <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
+                                            Aragorn
+                                        </td>
+                                        <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
+                                            reyaragorn@erebor.cat
+                                        </td>
+                                        <td class="relative whitespace-nowrap py-4 pl-3 pr-4 text-right text-sm font-medium sm:pr-6">
+                                            <a href="#" class="text-indigo-600 hover:text-indigo-900">Edit<span class="sr-only">, Cinta Zaragoza</span></a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6">
+                                            ID 3
+                                        </td>
+                                        <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
+                                            Gandalf el mago gris
+                                        </td>
+                                        <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
+                                            gandalfelgris@magos.cat
+                                        </td>
+                                        <td class="relative whitespace-nowrap py-4 pl-3 pr-4 text-right text-sm font-medium sm:pr-6">
+                                            <a href="#" class="text-indigo-600 hover:text-indigo-900">Edit<span class="sr-only">, Cinta Zaragoza</span></a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6">
+                                            ID 4
+                                        </td>
+                                        <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
+                                            Galadriel
+                                        </td>
+                                        <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
+                                            galadriel@elfos.com
                                         </td>
                                         <td class="relative whitespace-nowrap py-4 pl-3 pr-4 text-right text-sm font-medium sm:pr-6">
                                             <a href="#" class="text-indigo-600 hover:text-indigo-900">Edit<span class="sr-only">, Cinta Zaragoza</span></a>

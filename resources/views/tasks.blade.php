@@ -56,16 +56,70 @@
 
                                 <tr>
                                     <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6">
-                                        ID HERE
+                                        ID 1
                                     </td>
                                     <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
-                                        TASK HERE
+                                        Tasca 1
                                     </td>
                                     <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
-                                        DESCRIPTION HERE
+                                        Realitzar les configuracions adequades
                                     </td>
                                     <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
-                                        COMPLETED HERE
+                                        1
+                                    </td>
+                                    <td class="relative whitespace-nowrap py-4 pl-3 pr-4 text-right text-sm font-medium sm:pr-6">
+                                        <a href="#" class="text-indigo-600 hover:text-indigo-900">Edit<span
+                                                class="sr-only">, Cinta Zaragoza</span></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6">
+                                        ID 2
+                                    </td>
+                                    <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
+                                        Tasca 2
+                                    </td>
+                                    <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
+                                        Preparar els fitxers per ser desats
+                                    </td>
+                                    <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
+                                        1
+                                    </td>
+                                    <td class="relative whitespace-nowrap py-4 pl-3 pr-4 text-right text-sm font-medium sm:pr-6">
+                                        <a href="#" class="text-indigo-600 hover:text-indigo-900">Edit<span
+                                                class="sr-only">, Cinta Zaragoza</span></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6">
+                                        ID 3
+                                    </td>
+                                    <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
+                                        Tasca 3
+                                    </td>
+                                    <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
+                                        Realització del wordpress
+                                    </td>
+                                    <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
+                                        1
+                                    </td>
+                                    <td class="relative whitespace-nowrap py-4 pl-3 pr-4 text-right text-sm font-medium sm:pr-6">
+                                        <a href="#" class="text-indigo-600 hover:text-indigo-900">Edit<span
+                                                class="sr-only">, Cinta Zaragoza</span></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6">
+                                        ID 4
+                                    </td>
+                                    <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
+                                        Tasca 4
+                                    </td>
+                                    <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
+                                        Ampliació del wordpress
+                                    </td>
+                                    <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
+                                        0
                                     </td>
                                     <td class="relative whitespace-nowrap py-4 pl-3 pr-4 text-right text-sm font-medium sm:pr-6">
                                         <a href="#" class="text-indigo-600 hover:text-indigo-900">Edit<span

@@ -1,5 +1,5 @@
 <x-layout>
-    
+
     <div>
         <header class="bg-white shadow">
             <div class="mx-auto max-w-7xl py-6 px-4 sm:px-6 lg:px-8">
@@ -9,20 +9,6 @@
             </div>
         </header>
         <main>
-            <!--
-              This example requires some changes to your config:
-
-              ```
-              // tailwind.config.js
-              module.exports = {
-                // ...
-                plugins: [
-                  // ...
-                  require('@tailwindcss/forms'),
-                ],
-              }
-              ```
-            -->
             <div class="overflow-hidden bg-white py-16 px-6 lg:px-8 lg:py-24">
                 <div class="relative mx-auto max-w-xl">
                     <svg class="absolute left-full translate-x-1/2 transform" width="404" height="404" fill="none" viewBox="0 0 404 404" aria-hidden="true">
@@ -135,8 +121,6 @@
                     </div>
                 </div>
             </div>
-
-
         </main>
     </div>
 </x-layout>

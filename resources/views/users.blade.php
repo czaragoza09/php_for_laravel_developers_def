@@ -50,7 +50,6 @@
                                             <a href="#" class="text-indigo-600 hover:text-indigo-900">Edit<span class="sr-only">, Cinta Zaragoza</span></a>
                                         </td>
                                     </tr>
-                                    <!-- More people... -->
                                     </tbody>
                                 </table>
                             </div>
@@ -58,8 +57,6 @@
                     </div>
                 </div>
             </div>
-
-
         </main>
     </div>
 </x-layout>

@@ -72,7 +72,6 @@
                                                 class="sr-only">, Cinta Zaragoza</span></a>
                                     </td>
                                 </tr>
-                                <!-- More people... -->
                                 </tbody>
                             </table>
                         </div>

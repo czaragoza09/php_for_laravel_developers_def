@@ -87,31 +87,6 @@
                                             <span aria-hidden="true" class="translate-x-0 inline-block h-5 w-5 transform rounded-full bg-white shadow ring-0 transition duration-200 ease-in-out"></span>
                                         </button>
                                     </div>
-                                    <div class="ml-3">
-                                        <p class="text-base text-gray-500">
-                                            Seleccionant això estas d'acord amb les següents politiques de privacitat:
-
-                                            <a href="#" class="font-medium text-gray-700 underline">Privacy Policy</a>
-                                            Objecte: El present document té com a objectiu establir les bases legals per al tractament de les dades personals per a la subscripció al butlletí informatiu en català.
-
-                                            Responsable del tractament: [Cinta Zaragoza Blanch].
-
-                                            Finalitat del tractament: Les dades personals seran tractades per a la finalitat de mantenir informat als subscriptors sobre les activitats i novetats relacionades amb aquesta pàgina web.
-
-                                            Legitimació: La base legal per al tractament de les dades és el consentiment prestat pel titular de les dades.
-
-                                            Destinataris: Les dades no seran cedides a tercers, excepte en els casos en què existeixi una obligació legal.
-
-                                            Drets: Els titulars de les dades tenen el dret d'accés, rectificació, supressió, oposició, limitació del tractament i portabilitat de les seves dades. També tenen dret a retirar el consentiment prestat en qualsevol moment sense que això afecti la licitud del tractament basat en el consentiment prestat abans de la seva retirada.
-
-                                            Mesures de seguretat: S'han adoptat les mesures tècniques i organitzatives necessàries per garantir la seguretat de les dades personals i evitar la seva alteració, pèrdua, tractament o accés no autoritzat.
-
-                                            Informació addicional: Per a qualsevol consulta o aclariment relacionat amb el tractament de les dades personals, els titulars de les dades poden contactar amb Cinta Zaragoza: cintazaragozablanch@gmail.com .
-
-                                            Aquest document ha estat elaborat i actualitzat en data 13/02/23.
-                                            <a href="#" class="font-medium text-gray-700 underline">Cookie Policy</a>.
-                                        </p>
-                                    </div>
                                 </div>
                             </div>
                             <div class="sm:col-span-2">
